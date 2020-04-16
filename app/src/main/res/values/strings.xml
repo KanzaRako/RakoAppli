@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RakoAppli</string>
+    <string name="news">NEWS</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="source">Source</string>
+    <string name="titre">TITRE</string>
+    <string name="date">Date</string>
+    <string name="todo">TODO</string>
+    <string name="description">Description</string>
+    <string name="rakoappli">RAKOAPPLI</string>
+    <string name="search">Search</string>
+
+</resources>
