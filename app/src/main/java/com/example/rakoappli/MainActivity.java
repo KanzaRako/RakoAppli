@@ -95,6 +95,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //je rajoute du code
+    //exemple de showList();
+
+
     public void retrieveJson(String query ,String country, String apiKey){
 
 
@@ -131,6 +135,7 @@ public class MainActivity extends AppCompatActivity {
         String country = locale.getCountry();
         return country.toLowerCase();
     }
+
 
     public void showDialog(){
         Button btnClose;
